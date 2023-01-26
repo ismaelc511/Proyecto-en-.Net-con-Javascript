@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarea-CustomersApi2",
+      "appliesTo": "CustomersApi2/",
+      "type": "launch"
+    }
+  ]
+}

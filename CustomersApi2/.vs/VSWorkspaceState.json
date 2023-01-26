@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CustomersApi2",
+    "\\CustomersApi2\\bin",
+    "\\CustomersApi2\\bin\\Debug",
+    "\\CustomersApi2\\bin\\Release",
+    "\\CustomersApi2\\Controllers",
+    "\\CustomersApi2\\Dtos",
+    "\\CustomersApi2\\Repositories"
+  ],
+  "SelectedNode": "\\CustomersApi2.sln",
+  "PreviewInSolutionExplorer": false
+}
